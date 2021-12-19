@@ -6,4 +6,6 @@ Olá! bem vindo ao meu livro de receitas :wave:
 
 - Pavê (ok)
 
+- feito localmente
+
    
